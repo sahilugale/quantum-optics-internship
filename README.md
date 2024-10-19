@@ -25,8 +25,8 @@ This repository contains code and analysis for operating a laser-based gyroscope
 - Python 3.x, NumPy, SciPy, Matplotlib, Picoscope API.
 
 ### Running the Code:
-1. Set up the experimental apparatus.
-2. Use the provided Python scripts for data acquisition and analysis.
+1. Set up the experimental apparatus and acquire the relevant data.
+2. Use the provided Python scripts for data analysis.
 3. Follow the Jupyter notebooks for step-by-step instructions.
 
 ## Acknowledgements
